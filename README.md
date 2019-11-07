@@ -1,4 +1,4 @@
-# FUZZY POSITION CONTROL APPROACH FOR AN AUTONOMOUS ROBOT CONTROLLER
+# Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller
 
 Yüksek Lisans Tezimden Oluşturulan Konferans Bildirisi
 
