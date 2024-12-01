@@ -22,7 +22,7 @@ Department of Information Security Technologies, Istanbul Gelisim Vocational Sch
 
 Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
 
-Kongre Kitabı ISBN No: 978-625-7367-54-7
+Kongre Kitabı ISBN No: 978-605-67535-1-0
 
 Kongre Tarihleri: 10-11 Şubat 2022 Istanbul, Turkey
 
