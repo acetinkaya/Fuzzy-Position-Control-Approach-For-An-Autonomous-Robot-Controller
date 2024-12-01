@@ -2,7 +2,7 @@
 
 ## Authors
 
-[- **Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
+- **[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)**     
 Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
 - **Novruz Allahverdi**    
@@ -11,7 +11,7 @@ Department of Computer Engineering, Faculty of Engineering, KTO Karatay Universi
 - **A. Y. Afaghani**  
 Department of Mechatronics Engineering, Faculty of Engineering, KTO Karatay University  
  
-- **[Tugba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)** 
+- **[Tugba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)**   
 Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
