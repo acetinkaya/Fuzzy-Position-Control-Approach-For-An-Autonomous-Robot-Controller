@@ -14,7 +14,9 @@ Department of Mechatronics Engineering, Faculty of Engineering, KTO Karatay Univ
 - **Tugba Saray**  
 Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+---
 
 
 Abstract— In this study, the application of position control on a fixed track by an autonomous robot fuzzy controller approach is realized. For this purpose, a system is designed in which the real time data exchange can be done both for hardware and software. The embedded system (Atmel 2560 Integrity) is used in the hardware section to achieve the target attainment and position control with the fuzzy controller. DC motor, servo motor, ultrasonic sensor, Bluetooth module and optical sensor are controlled using this system. In addition, the desktop software is designed using the microcontroller software as well as Visual Studio 2015 platform using c# language. The coordinates (x, y) and path information sent by Altu robot (The name of the robot designed for this study) on the designed
