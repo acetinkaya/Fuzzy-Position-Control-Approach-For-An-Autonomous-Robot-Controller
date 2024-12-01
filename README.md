@@ -42,6 +42,7 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 ---
 
+![AlternatifMetin](https://github.com/acetinkaya/Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller/blob/master/icat17-calismasi.png)
 
 
 5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site: https://www.icatsconf.org/TURKEY2017/icat17
