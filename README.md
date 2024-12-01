@@ -2,9 +2,11 @@
 
 Ali Çetinkaya
 
-Novruz Allahverdi
+Novruz Allahverdi  
+Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
 
 A. Y. Afaghani
+Department of Mechatronics Engineering, Faculty of Engineering, KTO Karatay University  
 
 Tugba Saray
 
