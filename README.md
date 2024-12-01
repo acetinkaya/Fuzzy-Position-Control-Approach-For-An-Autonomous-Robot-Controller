@@ -48,7 +48,7 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 ##  Kongre Erişim Sayfaları
 
-[Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
+[5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site](
 
 [1. Araştma Yayın Linki](https://alicetinkaya.site/blog/f/vehicle-classification-cnn-darknet-coco-dataset)
 
@@ -69,7 +69,7 @@ License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
 
-5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site: https://www.icatsconf.org/TURKEY2017/icat17
+: 
 
 ICAT'17 Istanbul Conference Proceedings Book : https://www.icatsconf.org/uploads/files2/icat17-proceeding-v2-1.pdf
 
