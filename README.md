@@ -67,10 +67,3 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
-
-
-: 
-
-ICAT'17 Istanbul Conference Proceedings Book : https://www.icatsconf.org/uploads/files2/icat17-proceeding-v2-1.pdf
-
-ICAT'17 Istanbul Conference Abstract Book : https://www.icatsconf.org/uploads/files2/ICAT17_abstract_book.pdf
