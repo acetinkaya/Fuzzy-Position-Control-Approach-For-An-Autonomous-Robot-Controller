@@ -30,7 +30,7 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
 
 ---
 
-![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
+![AlternatifMetin](https://github.com/acetinkaya/Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller/blob/master/icat-conferance.png)
 
 ---
 
