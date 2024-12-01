@@ -24,7 +24,7 @@ Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
 
 Kongre Kitabı ISBN No: 978-605-67535-1-0
 
-Kongre Tarihleri: 10-11 Şubat 2022 Istanbul, Turkey
+Kongre Tarihleri: May 9-12, 2017 Istanbul, Turkey
 
 Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
 
