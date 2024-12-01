@@ -44,6 +44,18 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 ![AlternatifMetin](https://github.com/acetinkaya/Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller/blob/master/icat17-calismasi.png)
 
+---
+
+##  Kongre Erişim Sayfaları
+
+[Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
+
+[1. Araştma Yayın Linki](https://alicetinkaya.site/blog/f/vehicle-classification-cnn-darknet-coco-dataset)
+
+[ResearchGate](https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset)
+
+---
+
 ## How to Cite / Nasıl Alıntı Yapılır
 
 - **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset",  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.179-192, 2021 
