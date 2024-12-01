@@ -20,7 +20,7 @@ Department of Information Security Technologies, Istanbul Gelisim Vocational Sch
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi
+Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
 
 Kongre Kitabı ISBN No: 978-625-7367-54-7
 
