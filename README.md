@@ -52,7 +52,7 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 [1. Araştma Yayın Linki](https://alicetinkaya.site/blog/f/vehicle-classification-cnn-darknet-coco-dataset)
 
-[ResearchGate](https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset)
+[ResearchGate](https://www.researchgate.net/publication/317844965_Fuzzy_Position_Control_Approach_for_Autonomous_Robot_Controller)
 
 ---
 
