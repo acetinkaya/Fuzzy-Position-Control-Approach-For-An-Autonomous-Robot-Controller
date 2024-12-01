@@ -60,7 +60,7 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 - **IEEE**: A. Çetinkaya Et Al. , "Fuzzy Position Control Approach for Autonomous Robot Controller," 5th International Conference On Advanced Technology & Sciences (ICAT 2017) , vol.1, İstanbul, Turkey, pp.13-18, 2017
 
-- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
+- **APA**: Çetinkaya, A., Allahverdi, N., Afaghanı, A. Y., & Saray Çetinkaya, T., (2017). Fuzzy Position Control Approach for Autonomous Robot Controller . 5th International Conference On Advanced Technology & Sciences (ICAT 2017) (pp.13-18). İstanbul, Turkey         
 
 - **MLA**: Dogan, Ahmet Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
 
