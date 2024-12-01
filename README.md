@@ -48,7 +48,7 @@ Keywords- Fuzzy controller, Position control, Autonomous robot
 
 ##  Kongre Erişim Sayfaları
 
-[5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site](
+[5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site](https://www.icatsconf.org/TURKEY2017/icat17)
 
 [1. Araştma Yayın Linki](https://alicetinkaya.site/blog/f/vehicle-classification-cnn-darknet-coco-dataset)
 
