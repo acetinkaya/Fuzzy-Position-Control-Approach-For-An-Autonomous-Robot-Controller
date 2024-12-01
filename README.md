@@ -1,6 +1,12 @@
 # Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller
 
+Ali Çetinkaya
 
+Novruz Allahverdi
+
+A. Y. Afaghani
+
+Tugba Saray
 
 
 
