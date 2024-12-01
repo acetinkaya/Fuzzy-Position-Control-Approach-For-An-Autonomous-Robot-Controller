@@ -1,14 +1,17 @@
 # Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller
 
-Ali Çetinkaya
+## Authors
 
-Novruz Allahverdi  
+Ali Çetinkaya  
+Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
+
+Novruz Allahverdi    
 Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
 
-A. Y. Afaghani
+A. Y. Afaghani  
 Department of Mechatronics Engineering, Faculty of Engineering, KTO Karatay University  
-
-Tugba Saray
+ 
+Tugba Saray  
 Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 
