@@ -40,6 +40,10 @@ control method and the results are compared. Thus, the fuzzy logic approach has 
 
 Keywords- Fuzzy controller, Position control, Autonomous robot
 
+---
+
+
+
 5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site: https://www.icatsconf.org/TURKEY2017/icat17
 
 ICAT'17 Istanbul Conference Proceedings Book : https://www.icatsconf.org/uploads/files2/icat17-proceeding-v2-1.pdf
