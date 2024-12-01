@@ -9,6 +9,8 @@ A. Y. Afaghani
 Department of Mechatronics Engineering, Faculty of Engineering, KTO Karatay University  
 
 Tugba Saray
+Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
+
 
 
 
